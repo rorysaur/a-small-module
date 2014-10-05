@@ -1,0 +1,17 @@
+{
+  "name": "a-small-module",
+  "version": "0.1.0",
+  "description": "a small module about wanting to be a small module",
+  "bin": {
+    "a-small-module": "cmd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rorysaur/a-small-module.git"
+  },
+  "author": "Rory Ou <ou.rory@gmail.com> (http://github.com/rorysaur)",
+  "homepage": "https://github.com/rorysaur/a-small-module",
+  "dependencies": {
+    "default-pager": "^1.0.1"
+  }
+}
