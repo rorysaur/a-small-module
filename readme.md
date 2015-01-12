@@ -1,6 +1,3 @@
-# on wanting to be a small module
-
-
 i am a small person. it's true. sometimes i forget that i am a small person. small is relative, and when i'm not comparing my own size to that of anything else, it's easy to forget.
 
 when i flew to see you, i told you how being amongst so many normal americans when i fly reminds me that most people are noticeably larger than me: taller, weightier, stronger and generally more physically substantial. it often means the difference between being someone who jostles and being someone who is jostled, the difference in size being enough to make a difference in grammatical case, in the degree of agency one has or is expected to have when it comes to collisions in meatspace.

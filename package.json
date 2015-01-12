@@ -1,6 +1,6 @@
 {
   "name": "a-small-module",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "a small module about wanting to be a small module",
   "bin": {
     "a-small-module": "bin/cmd.js"
